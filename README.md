@@ -1,51 +1,68 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# (WIP) Massively - Jekyll Theme
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+A Jekyll version of the "Massively" theme by [HTML5 UP](https://html5up.net/).
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+![Massively Theme](assets/images/massively.jpg "Massively Theme")
 
-### Documentation
+# How to Use
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
+and [creating pages](https://jekyllrb.com/docs/pages/).
 
-### Contribute to Mundana repository
+- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
+- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file!
 
-1. In the top-right corner of this page, click **Fork**.
+# Added Features
 
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
+* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
+* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
+* Set **featured images** in front matter.
 
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+# Issues
 
-3. **Create a branch**: 
+If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/massively-jekyll-theme) and I will be more than happy to help!
 
-   `git checkout -b <my-new-feature-or-fix>`
+Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/massively-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/massively-jekyll-theme@incoming.gitlab.com).
 
-4. **Make necessary changes and commit those changes**:
+The GitHub repository is simply a mirror of the GitLab repository.
 
-   `git add .`
+# Credits
 
-   `git commit -m "new feature or fix"`
+Original README from HTML5 UP:
 
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
-
-   `git push origin <add-your-branch-name>`
-
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+```
+Massively by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-### Copyright
+This is Massively, a text-heavy, article-oriented design built around a huge background
+image (with a new parallax implementation I'm testing) and scroll effects (powered by
+Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
+that fulfills a few user requests and makes use of some new techniques I've been wanting
+to try out. Enjoy it :)
 
-Copyright (C) 2019 WowThemes.net.
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+(* = not included)
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+AJ
+aj@lkn.io | @ajlkn
 
-### Live Demo
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		Misc. Sass functions (@HugoGiraudel)
+		Skel (skel.io)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+```
