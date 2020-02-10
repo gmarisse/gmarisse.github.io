@@ -2442,18 +2442,34 @@
 			top: 0.75rem;
 		}
 
-		.image.fit {
-			display: block;
-			margin: 2.5rem 0;
-			width: 100%;
+		.image.fill {
+			display: inline-block;
+			width: auto;
+			margin: 1.5rem 0;
+			height: 400px;
 		}
 
-			.image.fit:first-child {
-				margin-top: 0;
+			.image.fill img {
+				object-fit: cover;
+				width: 100%;
+				height: 100%;
 			}
 
+		.image.fit {
+			display: inline-block;
+			margin: 1.5rem 0;
+			width: 30%;
+			height: 400px;
+		}
+
+			/* .image.fit:first-child {
+				margin-top: 0;
+			} */
+
 			.image.fit img {
+				object-fit: cover;
 				width: 100%;
+				height: 100%;
 			}
 
 		.image.main {
