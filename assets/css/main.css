@@ -2447,6 +2447,7 @@
 			width: auto;
 			margin: 1.5rem 0;
 			height: 400px;
+			overflow: hidden;
 		}
 
 			.image.fill img {
@@ -2460,6 +2461,7 @@
 			margin: 1.5rem 0;
 			width: 30%;
 			height: 400px;
+			overflow: hidden;
 		}
 
 			/* .image.fit:first-child {
