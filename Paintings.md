@@ -15,7 +15,7 @@ title: Paintings
 <div class="image fit"><img src="assets/images/Kbay Coffee.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/Ocean Pups.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/No Puffin.jpg" alt=""/></div>
-<div class="image fit"><img src="assets/images/Kbay Whales.jpg" alt=""/></div>
+<div class="image fit"><img src="assets/images/Kbay whales.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/Hand in Hand.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/greggs.jpg" alt=""/></div>
 <div class="image fill"><img src="assets/images/Rain Dance 1.jpg" alt=""/></div>
@@ -26,7 +26,7 @@ title: Paintings
 <div class="image fit"><img src="assets/images/Whitley Bay.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/Rasin.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/Missy.jpg" alt=""/></div>
-<div class="image fit"><img src="assets/images/Melo.jpg" alt=""/></div>
+<div class="image fit"><img src="assets/images/melo.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/Jamie.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/Merry Dog.jpg" alt=""/></div>
 <div class="image fit"><img src="assets/images/Tiger.jpg" alt=""/></div>
