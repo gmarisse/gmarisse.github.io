@@ -2411,6 +2411,13 @@
 		}
 
 /* Image */
+		.image-gallery {
+			position: relative;
+		}
+/* 
+		.image:hover {
+			opacity: 1;
+		} */
 
 	/* .image {
 		border: 0;
@@ -2458,7 +2465,7 @@
 
 		.image.fit {
 			display: inline-block;
-			margin: 1.5rem 0;
+			margin: 1.5rem 0.7rem;
 			width: 30%;
 			height: 400px;
 			overflow: hidden;
@@ -2499,6 +2506,40 @@
 			}
 
 		}
+
+		/* .image.fit .overlay {
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			right: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			opacity: 0;
+			transform: .5s ease;
+			background-color: #ded7d1;
+		}
+
+		.image.fit:hover .overlay {
+			opacity: 1;
+		}
+
+		.image.fill .overlay {
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			right: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			opacity: 0;
+			transform: .5s ease;
+			background-color: #ded7d1;
+		}
+
+		.image.fill:hover .overlay {
+			opacity: 1;
+		} */
 
 	a.image {
 		overflow: hidden;
