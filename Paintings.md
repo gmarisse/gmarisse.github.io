@@ -207,6 +207,12 @@ title: Paintings
     <img src="assets/images/Saddle Paddle.jpg" alt=""/>
     <div class="overlay" onclick="openModal();currentSlide(33)">
         <div class="text">Saddle Paddle, 12 inches x 9 inches acrylic on canvas, SOLD</div>
+      </div>
+</div>
+<div class="image fit">
+    <img src="assets/images/halibut cove 2.JPG" alt=""/>
+    <div class="overlay" onclick="openModal();currentSlide(34)">
+        <div class="text">Halibut Cove 2, 16 inches x 12 inches acrylic on canvas</div>
     </div>
 
 
@@ -348,6 +354,10 @@ title: Paintings
     <div class="mySlides">
       <div class="numbertext">3</div>
       <img src="assets/images/Saddle Paddle.jpg" style="width:100%">
+    </div>
+    <div class="mySlides">
+      <div class="numbertext">3</div>
+      <img src="assets/images/halibut cove 2.JPG" style="width:100%">
     </div>
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
