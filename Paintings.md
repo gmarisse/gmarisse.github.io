@@ -64,7 +64,7 @@ title: Paintings
         <div class="text">Greggs, 8 inches x 11 inches watercolor on hot press paper, SOLD</div>
     </div>
 </div>
-<div class="image fill">
+<div class="image fit">
     <img src="assets/images/Rain Dance 1.jpg" alt=""/>
     <div class="overlay" onclick="openModal();currentSlide(11)">
         <div class="text">Tiny Dancers, 12 inches x 36 inches watercolor on canvas, SOLD</div>
