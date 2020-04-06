@@ -8,12 +8,12 @@
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ "/" | absolute_url }}">{{ page.title }}</a></li>
 	    	{% endif %}
 		    {% endfor %}
-		    {% for page in site.pages %}
-		    {% if page.layout != "home" %}
+		    {% for page in site.html_pages %}
+			{% if page.layout != "home" %}
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 			{% endfor %}
-			<li><a href="">Store</a></li>
+			<li><a target="_blank" href="https://society6.com/gmarisseart">Store</a></li>
 		</ul>
 		<ul class="icons">
 				{% if site.twitter_url %}

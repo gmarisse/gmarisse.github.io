@@ -199,7 +199,7 @@ title: Paintings
 </div>
 <div class="image fit">
     <img src="assets/images/Oakleigh.jpeg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(32`)">
+    <div class="overlay" onclick="openModal();currentSlide(32)">
         <div class="text">Oakleigh, 16 inches x 12 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
@@ -221,143 +221,143 @@ title: Paintings
   <div class="modal-content">
     <div class="mySlides">
       <div class="numbertext">1</div>
-      <img src="assets/images/Denali.jpeg" style="width:100%">
+      <img src="assets/images/Denali.jpeg">
     </div>
     <div class="mySlides">
       <div class="numbertext">2</div>
-      <img src="assets/images/Bishopps Beach.jpg" style="width:100%">
+      <img src="assets/images/Bishopps Beach.jpg">
     </div>
      <div class="mySlides">
       <div class="numbertext">3</div>
-      <img src="assets/images/Saddle Trail.jpeg" style="width:100%">
+      <img src="assets/images/Saddle Trail.jpeg">
     </div>
     <div class="mySlides">
       <div class="numbertext">3</div>
-      <img src="assets/images/Halibut Cove.jpg" style="width:100%">
+      <img src="assets/images/Halibut Cove.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">4</div>
-      <img src="assets/images/Kbay Coffee.jpg" style="width:100%">
+      <img src="assets/images/Kbay Coffee.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">5</div>
-      <img src="assets/images/Ocean Pups.jpg" style="width:100%">
+      <img src="assets/images/Ocean Pups.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">6</div>
-      <img src="assets/images/No Puffin.jpg" style="width:100%">
+      <img src="assets/images/No Puffin.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">7</div>
-      <img src="assets/images/Kbay whales.jpg" style="width:100%">
+      <img src="assets/images/Kbay whales.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">8</div>
-      <img src="assets/images/Hand in Hand.jpg" style="width:100%">
+      <img src="assets/images/Hand in Hand.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">9</div>
-      <img src="assets/images/greggs.jpg" style="width:100%">
+      <img src="assets/images/greggs.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">10</div>
-      <img src="assets/images/Rain Dance 1.jpg" style="width:100%">
+      <img src="assets/images/Rain Dance 1.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">11</div>
-      <img src="assets/images/Granny Dance.jpg" style="width:100%">
+      <img src="assets/images/Granny Dance.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">12</div>
-      <img src="assets/images/Green Door.jpg" style="width:100%">
+      <img src="assets/images/Green Door.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">13</div>
-      <img src="assets/images/St.Paul.jpg" style="width:100%">
+      <img src="assets/images/St.Paul.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">14</div>
-      <img src="assets/images/Lvl Lndscape 1.jpg" style="width:100%">
+      <img src="assets/images/Lvl Lndscape 1.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">3</div>
-      <img src="assets/images/LVLL Landscape 2.jpeg" style="width:100%">
+      <img src="assets/images/LVLL Landscape 2.jpeg">
     </div>
     <div class="mySlides">
       <div class="numbertext">15</div>
-      <img src="assets/images/Whitley Bay.jpg" style="width:100%">
+      <img src="assets/images/Whitley Bay.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">16</div>
-      <img src="assets/images/Rasin.jpg" style="width:100%">
+      <img src="assets/images/Rasin.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">17</div>
-      <img src="assets/images/Missy.jpg" style="width:100%">
+      <img src="assets/images/Missy.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">18</div>
-      <img src="assets/images/melo.jpg" style="width:100%">
+      <img src="assets/images/melo.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">19</div>
-      <img src="assets/images/Jamie.jpg" style="width:100%">
+      <img src="assets/images/Jamie.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">20</div>
-      <img src="assets/images/Merry Dog.jpg" style="width:100%">
+      <img src="assets/images/Merry Dog.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">21</div>
-      <img src="assets/images/Tiger.jpg" style="width:100%">
+      <img src="assets/images/Tiger.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">22</div>
-      <img src="assets/images/Spring bloom 1.jpg" style="width:100%">
+      <img src="assets/images/Spring bloom 1.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">23</div>
-      <img src="assets/images/Spring bloom 2.jpg" style="width:100%">
+      <img src="assets/images/Spring bloom 2.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">24</div>
-      <img src="assets/images/Spring bloom 3.jpg" style="width:100%">
+      <img src="assets/images/Spring bloom 3.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">25</div>
-      <img src="assets/images/Rain Dance 2.jpg" style="width:100%">
+      <img src="assets/images/Rain Dance 2.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">26</div>
-      <img src="assets/images/Vday 1.jpg" style="width:100%">
+      <img src="assets/images/Vday 1.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">27</div>
-      <img src="assets/images/Vday 2.jpg" style="width:100%">
+      <img src="assets/images/Vday 2.jpg">
     </div>
     <div class="mySlides">
       <div class="numbertext">28</div>
-      <img src="assets/images/Vday 3.jpg" style="width:100%">
+      <img src="assets/images/Vday 3.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">3</div>
-      <img src="assets/images/Live for Liv.jpeg" style="width:100%">
+      <div class="numbertext">30</div>
+      <img src="assets/images/Live for Liv.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">3</div>
-      <img src="assets/images/Homestead.jpeg" style="width:100%">
+      <div class="numbertext">31</div>
+      <img src="assets/images/Homestead.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">3</div>
-      <img src="assets/images/Oakleigh.jpeg" style="width:100%">
+      <div class="numbertext">32</div>
+      <img src="assets/images/Oakleigh.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">3</div>
-      <img src="assets/images/Saddle Paddle.jpg" style="width:100%">
+      <div class="numbertext">33</div>
+      <img src="assets/images/Saddle Paddle.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">3</div>
-      <img src="assets/images/halibut cove 2.JPG" style="width:100%">
+      <div class="numbertext">34</div>
+      <img src="assets/images/halibut cove 2.JPG">
     </div>
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -392,7 +392,7 @@ function showSlides(n) {
   var slides = document.getElementsByClassName("mySlides");
 //   var dots = document.getElementsByClassName("demo");
   var captionText = document.getElementById("caption");
-  if (n > slides.length) {slideIndex = 1}
+  if (n> slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
