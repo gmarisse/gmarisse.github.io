@@ -96,124 +96,125 @@ title: Paintings
     </div>
 <div class="image fit">
     <img src="assets/images/LVLL Landscape 2.jpeg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(15.5)">
+    <div class="overlay" onclick="openModal();currentSlide(16)">
         <div class="text">Louisville Landscape 2, 12 inches x 36 inches oil on canvas</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Whitley Bay.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(16)">
+    <div class="overlay" onclick="openModal();currentSlide(17)">
         <div class="text">Whitley Bay, 8 inches x 10 inches oil on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Rasin.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(17)">
+    <div class="overlay" onclick="openModal();currentSlide(18)">
         <div class="text">Rasin, 16 inches x 20 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Missy.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(18)">
+    <div class="overlay" onclick="openModal();currentSlide(19)">
         <div class="text">Missy, 8 inches x 10 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/melo.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(19)">
+    <div class="overlay" onclick="openModal();currentSlide(20)">
         <div class="text">Melo, 8 inches x 10 inches acrylic on canvas,
         SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Jamie.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(20)">
+    <div class="overlay" onclick="openModal();currentSlide(21)">
         <div class="text">Jamie, 8 inches x 10 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Merry Dog.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(21)">
+    <div class="overlay" onclick="openModal();currentSlide(22)">
         <div class="text">Jack, 8 inches x 10 inches acrylic on canvas SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Tiger.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(22)">
+    <div class="overlay" onclick="openModal();currentSlide(23)">
         <div class="text">Tiger, 8 inches x 11 inches watercolor on hot press paper</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Spring bloom 1.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(23)">
+    <div class="overlay" onclick="openModal();currentSlide(24)">
         <div class="text">Spring Bloom 1, 8 inches x 10 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Spring bloom 2.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(24)">
+    <div class="overlay" onclick="openModal();currentSlide(25)">
         <div class="text">Spring Bloom 2, acrylic on 2 combined 8 x 10 inch canvas boards, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Spring bloom 3.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(25)">
+    <div class="overlay" onclick="openModal();currentSlide(26)">
         <div class="text">Spring Bloom 3, 5 inches x 7 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Rain Dance 2.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(26)">
+    <div class="overlay" onclick="openModal();currentSlide(27)">
         <div class="text">Dancing in the Rain, 8 inches x 10 inches watercolor on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Vday 1.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(27)">
+    <div class="overlay" onclick="openModal();currentSlide(28)">
         <div class="text">St. Valentine 1, 12 inches x 16 inches oil on canvas</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Vday 2.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(28)">
+    <div class="overlay" onclick="openModal();currentSlide(29)">
         <div class="text">St. Valentine 2, 5 inches x 7 inches oil on canvas</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Vday 3.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(29)">
+    <div class="overlay" onclick="openModal();currentSlide(30)">
         <div class="text">St. Valentine 3, 8 inches x 10 inches oil on canvas</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Live for Liv.jpeg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(30)">
+    <div class="overlay" onclick="openModal();currentSlide(31)">
         <div class="text">Live for Liv, 10 inches x 10 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Homestead.jpeg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(31)">
+    <div class="overlay" onclick="openModal();currentSlide(32)">
         <div class="text">Homestead, 16 inches x 12 inches acrylic on canvas SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Oakleigh.jpeg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(32)">
+    <div class="overlay" onclick="openModal();currentSlide(33)">
         <div class="text">Oakleigh, 16 inches x 12 inches acrylic on canvas, SOLD</div>
     </div>
 </div>
 <div class="image fit">
     <img src="assets/images/Saddle Paddle.jpg" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(33)">
+    <div class="overlay" onclick="openModal();currentSlide(34)">
         <div class="text">Saddle Paddle, 12 inches x 9 inches acrylic on canvas, SOLD</div>
       </div>
 </div>
 <div class="image fit">
     <img src="assets/images/halibut cove 2.JPG" alt=""/>
-    <div class="overlay" onclick="openModal();currentSlide(34)">
+    <div class="overlay" onclick="openModal();currentSlide(35)">
         <div class="text">Halibut Cove 2, 16 inches x 12 inches acrylic on canvas</div>
     </div>
+</div>
 
 
 <div id="myModal" class="modal">
@@ -232,131 +233,131 @@ title: Paintings
       <img src="assets/images/Saddle Trail.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">3</div>
+      <div class="numbertext">4</div>
       <img src="assets/images/Halibut Cove.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">4</div>
+      <div class="numbertext">5</div>
       <img src="assets/images/Kbay Coffee.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">5</div>
+      <div class="numbertext">6</div>
       <img src="assets/images/Ocean Pups.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">6</div>
+      <div class="numbertext">7</div>
       <img src="assets/images/No Puffin.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">7</div>
+      <div class="numbertext">8</div>
       <img src="assets/images/Kbay whales.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">8</div>
+      <div class="numbertext">9</div>
       <img src="assets/images/Hand in Hand.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">9</div>
+      <div class="numbertext">10</div>
       <img src="assets/images/greggs.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">10</div>
+      <div class="numbertext">11</div>
       <img src="assets/images/Rain Dance 1.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">11</div>
+      <div class="numbertext">12</div>
       <img src="assets/images/Granny Dance.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">12</div>
+      <div class="numbertext">13</div>
       <img src="assets/images/Green Door.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">13</div>
+      <div class="numbertext">14</div>
       <img src="assets/images/St.Paul.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">14</div>
+      <div class="numbertext">15</div>
       <img src="assets/images/Lvl Lndscape 1.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">3</div>
+      <div class="numbertext">16</div>
       <img src="assets/images/LVLL Landscape 2.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">15</div>
+      <div class="numbertext">17</div>
       <img src="assets/images/Whitley Bay.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">16</div>
+      <div class="numbertext">18</div>
       <img src="assets/images/Rasin.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">17</div>
+      <div class="numbertext">19</div>
       <img src="assets/images/Missy.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">18</div>
+      <div class="numbertext">20</div>
       <img src="assets/images/melo.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">19</div>
+      <div class="numbertext">21</div>
       <img src="assets/images/Jamie.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">20</div>
+      <div class="numbertext">22</div>
       <img src="assets/images/Merry Dog.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">21</div>
+      <div class="numbertext">23</div>
       <img src="assets/images/Tiger.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">22</div>
+      <div class="numbertext">24</div>
       <img src="assets/images/Spring bloom 1.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">23</div>
+      <div class="numbertext">25</div>
       <img src="assets/images/Spring bloom 2.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">24</div>
+      <div class="numbertext">26</div>
       <img src="assets/images/Spring bloom 3.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">25</div>
+      <div class="numbertext">27</div>
       <img src="assets/images/Rain Dance 2.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">26</div>
+      <div class="numbertext">28</div>
       <img src="assets/images/Vday 1.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">27</div>
+      <div class="numbertext">29</div>
       <img src="assets/images/Vday 2.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">28</div>
+      <div class="numbertext">30</div>
       <img src="assets/images/Vday 3.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">30</div>
+      <div class="numbertext">31</div>
       <img src="assets/images/Live for Liv.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">31</div>
+      <div class="numbertext">32</div>
       <img src="assets/images/Homestead.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">32</div>
+      <div class="numbertext">33</div>
       <img src="assets/images/Oakleigh.jpeg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">33</div>
+      <div class="numbertext">34</div>
       <img src="assets/images/Saddle Paddle.jpg">
     </div>
     <div class="mySlides">
-      <div class="numbertext">34</div>
+      <div class="numbertext">35</div>
       <img src="assets/images/halibut cove 2.JPG">
     </div>
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

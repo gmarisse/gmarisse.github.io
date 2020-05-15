@@ -6,7 +6,7 @@ title: About the Artist
 <h2>Gabriella Betance</h2>
 <p>Born in Bellevue, Nebraska, 2000<br />Raised in Homer, Alaska <br />Lives and works in Louisville, Colorado </p>
 
-<div class="image fill">
+<div class="image profile">
     <img src="assets/images/artist pic 2.jpeg" alt=""/>
 </div>
 
